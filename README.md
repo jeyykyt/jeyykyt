@@ -15,7 +15,7 @@ I am a Computer Engineer with hands-on experience in **embedded systems, web dev
 - **Web Development:** CRUD Applications, Responsive UI, API Integration, Full-Stack Development  
 - **Embedded & IoT:** Arduino, ESP32, ESP8266, Sensors, Actuators, FreeRTOS  
 - **Machine Learning & AI:** CNNs, Edge ML (MAX78000, Zephyr OS), YOLO11  
-- **Tools & Platforms:** Git, GitHub, Streamlit, ThingSpeak, Quartus II, ModelSim, VS Code  
+- **Tools & Platforms:** Fusion360, Git, GitHub, Streamlit, ThingSpeak, Quartus II, ModelSim, VS Code  
 
 ---
 
@@ -47,7 +47,6 @@ Mindanao State University – Iligan Institute of Technology (MSU-IIT) | 2021 �
 
 ## 📫 Connect with Me
 
-- GitHub: [github.com/jejykyt](https://github.com/jejykyt)  
 - Email: [jejy.borres@g.msuiit.edu.ph](mailto:jejy.borres@g.msuiit.edu.ph)  
 
 ---
