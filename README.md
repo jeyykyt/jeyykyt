@@ -41,7 +41,7 @@ Mindanao State University â€“ Iligan Institute of Technology (MSU-IIT) | 2021 â€
 
 [Portfolio Link](#)  
 
-<a href="https://www.dropbox.com/scl/fi/26wohpweido6d20gd2vfs/Borres_CV.pdf?rlkey=rsg3oqx8qs4jsc3oekvvphli7&st=7mmrlc4j&dl=0" target="_blank">CV Link</a>
+<a href="https://www.dropbox.com/scl/fi/3ajo7x1nz703f38t793k1/Borres_CV.pdf?rlkey=woca31gzeitegj2qykd02ibul&st=wpsxzga6&dl=0" target="_blank">CV Link</a>
 
 ---
 
