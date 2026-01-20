@@ -21,7 +21,7 @@ I am a Computer Engineer with hands-on experience in **embedded systems, web dev
 
 ## 🎓 Education
 
-**Bachelor of Science in Computer Engineering | Cum Laude**  
+**Bachelor of Science in Computer Engineering**  
 Mindanao State University – Iligan Institute of Technology (MSU-IIT) | 2021 – 2026  
 
 ---
@@ -54,6 +54,6 @@ Download or view my CV here: [CV Link](#)
 ## 📫 Connect with Me
 
 - GitHub: [github.com/jejykyt](https://github.com/jejykyt)  
-- Email: [jejy.borres@example.com](mailto:jejy.borres@example.com)  
+- Email: [jejy.borres@g.msuiit.edu.ph](mailto:jejy.borres@g.msuiit.edu.ph)  
 
 ---
