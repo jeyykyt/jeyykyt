@@ -39,13 +39,7 @@ Mindanao State University – Iligan Institute of Technology (MSU-IIT) | 2021 �
 
 ---
 
-## 📂 Projects
-
-See my full **portfolio** for more: [Portfolio Link](#)  
-
----
-
-## 📄 CV
+[Portfolio Link](#)  
 
 <a href="https://www.dropbox.com/scl/fi/26wohpweido6d20gd2vfs/Borres_CV.pdf?rlkey=rsg3oqx8qs4jsc3oekvvphli7&st=7mmrlc4j&dl=0" target="_blank">Download or view my CV here</a>
 
