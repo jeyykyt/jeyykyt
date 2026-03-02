@@ -24,7 +24,7 @@ I am a Computer Engineer with hands-on experience in **embedded systems, web dev
 **Bachelor of Science in Computer Engineering | Cum Laude**  
 Mindanao State University – Iligan Institute of Technology (MSU-IIT) | 2021 – 2026  
 
-_Sustainable Future Research Awardee_— undergraduate thesis---
+_Sustainable Future Research Awardee_— undergraduate thesis
 
 ## 💼 Experience
 
