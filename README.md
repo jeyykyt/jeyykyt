@@ -41,7 +41,7 @@ _Sustainable Future Research Awardee_— undergraduate thesis
 
 [Portfolio Link](#)  
 
-<a href="https://www.dropbox.com/scl/fi/v9c7lngfo9x0eb3rf5304/BORRES_RESUME.pdf?rlkey=2xl2exz816k5hyj7lq8vdc3c6&st=ijt05i20&dl=0" target="_blank">CV Link</a>
+<a href="https://www.dropbox.com/scl/fi/qduspmi0p1ny8cjdsmwh1/BORRES_CV.pdf?rlkey=uppil81gtax7wvyn1rinhk9bb&st=em9mpa3j&dl=0" target="_blank">CV Link</a>
 
 ---
 
